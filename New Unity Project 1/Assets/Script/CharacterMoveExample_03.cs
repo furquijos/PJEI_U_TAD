@@ -16,11 +16,7 @@ public class CharacterMoveExample_03 : MonoBehaviour {
 	public float displacement = 3.0F;
 	Vector3 movement;
 
-	// Use this for initialization
-	void Start () {
-		//Bakeamos el componente en la variable controller
 
-	}
 
 	void Update() {
 

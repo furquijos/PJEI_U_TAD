@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/CharacterMoveExample_03.cs">
+    <Files>
+      <File FileName="Assets/Script/CharacterMoveExample_01.cs" Line="23" Column="53" />
+      <File FileName="Assets/Script/CharacterMoveExample_02.cs" Line="37" Column="55" />
+      <File FileName="Assets/Script/CharacterMoveExample_03.cs" Line="19" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
