@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Example_03_DiscreteMove.unity
+- path: Assets/Scenes/Example_04_Animator.unity
   isLoaded: 1
   isActive: 1
